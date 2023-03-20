@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 ## Stats for fun
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgxyz&" alt="forgxyz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgxyz&theme=tokyonight" alt="forgxyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&show_icons=true&theme=aura&locale=en" alt="forgxyz" /></p>
+## About Me, in a way
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- 
+Returning API error : /
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&theme=tokyonight&show_icons=true" alt="forgxyz" /></p>
+ -->
