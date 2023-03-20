@@ -1,4 +1,6 @@
 ### Hi there 👋
+<br>
+I am an Analytics Engineer with a passion for learning and building.
 
 <!--
 **forgxyz/forgxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&show_icons=true&locale=en" alt="forgxyz" /></p>
+## Stats for fun
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgxyz&" alt="forgxyz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&show_icons=true&theme=aura&locale=en" alt="forgxyz" /></p>
