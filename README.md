@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&theme=tokyonight&show_icons=true" alt="forgxyz" /></p>
 </div>
 
-## About Me, in a way
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
