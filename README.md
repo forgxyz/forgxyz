@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ## Stats for fun
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgxyz&theme=tokyonight" alt="forgxyz" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&theme=tokyonight&show_icons=true" alt="forgxyz" /></p>
+</div>
 
 ## About Me, in a way
 <!--START_SECTION:waka-->
