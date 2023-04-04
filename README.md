@@ -8,7 +8,7 @@ I am an Analytics Engineer with a passion for learning and building.
 | ------------- |------------- |
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,7 +44,7 @@ WSL                      13 mins             ███████████�
 ```
 
 
- Last Updated on 03/04/2023 06:20:40 UTC
+ Last Updated on 04/04/2023 06:20:52 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
