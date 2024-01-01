@@ -39,15 +39,14 @@ Sunday                   369 commits         ░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-near-models              0 secs              ███████████████░░░░░░░░░░   59.72 % 
-flow-models              0 secs              ██████████░░░░░░░░░░░░░░░   40.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2023 06:16:37 UTC
+ Last Updated on 01/01/2024 06:16:48 UTC
 <!--END_SECTION:waka-->
 
 ### Thanks
