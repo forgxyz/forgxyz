@@ -9,7 +9,6 @@ I'm an Analytics Engineer @FlipsideCrypto with a passion for learning and growin
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgxyz&theme=tokyonight" alt="forgxyz" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=forgxyz&theme=tokyonight&show_icons=true" alt="forgxyz" /> |
 | ------------- |------------- |
 
-*I am certainly not an early bird, but I like the commit by time table*  
 
 <!--START_SECTION:waka-->
 
