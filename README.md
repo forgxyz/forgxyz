@@ -11,7 +11,6 @@ I'm an Analytics Engineer @FlipsideCrypto with a passion for learning and growin
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
