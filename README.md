@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm an Analytics Engineer @FlipsideCrypto with a passion for learning and growing.
+I'm an Analytics Engineer @[Allium](https://allium.so) with a passion for learning and growing.
   
 ## Stats for fun
 
